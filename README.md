@@ -39,7 +39,7 @@ Bornova’daki mahalleler için bir yemek sipariş ağacı oluşturulacaktır (�
 
 ------------------------
 
-### ***Pizzanın birim fiyatını güncellenmiştir *** 
+### Pizzanın birim fiyatı güncellenmiştir 
 
 ![image](https://user-images.githubusercontent.com/109876399/193426049-7893caba-613b-425b-9dc1-5ad1e90fd593.png)
 
